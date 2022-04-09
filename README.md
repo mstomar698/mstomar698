@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=201b153&label=Profile%20views&color=0e75b6&style=flat" alt="201b153" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=201b153" alt="201b153" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/mayank85380885" target="blank"><img src="https://img.shields.io/twitter/follow/mayank85380885?logo=twitter&style=for-the-badge" alt="mayank85380885" /></a> </p>
 
@@ -34,6 +34,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=201b153&show_icons=true&locale=en&layout=compact" alt="201b153" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=201b153&show_icons=true&locale=en" alt="201b153" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=201b153" alt="201b153" /></a> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=201b153&" alt="201b153" /></p>
 
