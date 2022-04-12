@@ -35,7 +35,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=201b153&show_icons=true&locale=en" alt="201b153" /></p>
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=201b153&" alt="201b153" /></p>
-
 <p align="center> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=201b153" alt="201b153" /></a> </p>
