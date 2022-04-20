@@ -5,7 +5,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/mayank85380885" target="blank"><img src="https://img.shields.io/twitter/follow/mayank85380885?logo=twitter&style=for-the-badge" alt="mayank85380885" /></a> </p>
+<p align="left"> <a href="https://twitter.com/tomarm698" target="blank"><img src="https://img.shields.io/twitter/follow/tomarm698?logo=twitter&style=for-the-badge" alt="tomarm698" /></a> </p>
 
 - 🌱 I’m currently learning **MERN, React-JS, JS, Python**
 
