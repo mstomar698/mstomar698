@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mayank Singh Tomar</h1>
-<h3 align="center">I'm a frontend Developer; who loves learning new techniques about web development.</h3>
+<h3 align="center">I'm a MERN full stack Developer; who loves creating and learning new techniques about development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=201b153&label=Profile%20views&color=0e75b6&style=flat" alt="201b153" /> </p>
 
-
-
-<p align="left"> <a href="https://twitter.com/tomarm698" target="blank"><img src="https://img.shields.io/twitter/follow/tomarm698?logo=twitter&style=for-the-badge" alt="tomarm698" /></a> </p>
 
 - 🌱 I’m currently learning **MERN, React-JS, JS, Python**
 
@@ -17,7 +14,7 @@
 <p align="left">
 <a href="https://codepen.io/@201b153" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@201b153" height="30" width="40" /></a>
 <a href="https://dev.to/https://dev.to/201b153" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/201b153" height="30" width="40" /></a>
-<a href="https://twitter.com/mayank85380885" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mayank85380885" height="30" width="40" /></a>
+<a href="https://twitter.com/tomarm698" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mayank85380885" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mayank-tomar-726187205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mayank-tomar-726187205/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100052845513759" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100052845513759" height="30" width="40" /></a>
 <a href="https://dribbble.com/mayank singh tomar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="mayank singh tomar" height="30" width="40" /></a>
@@ -37,7 +34,3 @@
 
 <p align="center> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=201b153" alt="201b153" /></a> </p>
 
-
-[![](https://raw.githubusercontent.com/201b153/github-profile-summary/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/201b153/github-profile-summary/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/201b153/github-profile-summary/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/201b153/github-profile-summary/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/201b153/github-profile-summary/master/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
