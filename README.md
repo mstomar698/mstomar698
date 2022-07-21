@@ -4,7 +4,7 @@
 <p align="center"> _______________________________________________________________________________________________________________________ </p>
 
 
-<img align="center" alt="Coding" width="800" height="400" src="code.gif">
+<img align="center" alt="Coding" width="auto" height="400" src="code.gif">
 
 <br>
 
