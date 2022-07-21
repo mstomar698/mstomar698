@@ -27,7 +27,7 @@
 
 - Drawing and content writing are my hobby and I like to write blogs when I am free.
 
-- Find my resume at <a "https://drive.google.com/file/d/19j6qI3jtfrb-4f3if4EhJRdVIYXaxMc1/view?usp=sharing" >RESUME</a>
+- Find my resume at <a href="https://drive.google.com/file/d/19j6qI3jtfrb-4f3if4EhJRdVIYXaxMc1/view?usp=sharing" >RESUME</a>
 <p align="center"> _______________________________________________________________________________________________________________________ </p>
 
 ## ⚡ Languages and Tools Used:
