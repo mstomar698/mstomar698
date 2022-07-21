@@ -98,7 +98,7 @@
 ⦿ Follow me on [Twitter](https://twitter.com/tomarm698) <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mstomar698" height="15" width="18" /> <br>
 ⦿ See my work at [Codepen](https://codepen.io/@201b153)<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@201b153" height="15" width="18" /> <br>
 ⦿ Follow me on [Medium](https://medium.com/@tomarm698)<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tomarm698" height="15" width="18" /> <br>
-⦿ Follow me on [DevTo](https://dev.to/https://dev.to/201b153)<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/201b153" height="15" width="18" /> <br>
+⦿ Follow me on [DevTo](https://dev.to/201b153)<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/201b153" height="15" width="18" /> <br>
 ⦿ Mail me at [Email](mailto:tomarm698@gmail.com) 💌 <br>
 <p align="center"> _______________________________________________________________________________________________________________________ </p>
 <p align="center" > <img src="https://komarev.com/ghpvc/?username=201b153&label=Profile%20views&color=0e75b6&style=flat" height="55" width="120" alt="201b153" /> </p>
