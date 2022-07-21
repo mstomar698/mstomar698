@@ -23,11 +23,11 @@
 - I love to help others and contribute to open-source projects.
 - I am currently working as a freelancer and if You like, you can reach out to me if you have any work to do.
 
-- I like to participate in hackathons and have already been on the SIH team.
+- I like to participate in hackathons and have already been on the college's SIH team.
 
 - Drawing and content writing are my hobby and I like to write blogs when I am free.
 
-- Find my resume at <a href="https://drive.google.com/file/d/11kJVy000EROmZVnMPgvLky6--rDXFIO8/view" >RESUME</a>
+- Find my resume at <a https://drive.google.com/file/d/19j6qI3jtfrb-4f3if4EhJRdVIYXaxMc1/view?usp=sharing" >RESUME</a>
 <p align="center"> _______________________________________________________________________________________________________________________ </p>
 
 ## ⚡ Languages and Tools Used:
