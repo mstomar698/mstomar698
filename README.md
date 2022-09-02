@@ -3,12 +3,12 @@
 
 <p align="center"> _______________________________________________________________________________________________________________________ </p>
 
-
 <img align="center" alt="Coding" width="auto" height="400" src="code.gif">
 
 <br>
 
 ## 🤵‍♂️ About:
+
 <p align="left" font size="36">
 - 🌱 I’m currently working on <strong>Web-Development, Web-Security, Competitive-programming</strong>.
 
@@ -30,7 +30,8 @@
 - Find my resume at <a href="https://drive.google.com/file/d/19j6qI3jtfrb-4f3if4EhJRdVIYXaxMc1/view?usp=sharing" >RESUME</a>
 <p align="center"> _______________________________________________________________________________________________________________________ </p>
 
-## ⚡ Languages and Tools Used:
+## ⚡ Languages and Tools:
+
 <p align="left">
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="55" width="50"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" height="55" width="50"/> </a>
@@ -47,6 +48,7 @@
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" height="55" width="50"/> </a>
+<!-- ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) -->
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="55" width="50"/> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="55" width="50"/> </a> 
@@ -71,28 +73,50 @@
 <p align="center"> _______________________________________________________________________________________________________________________ </p>
 
 ## 🌍 PlatForms On:
+
 <a href="https://www.codechef.com/users/https://www.codechef.com/users/mayank201b153" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/mayank201b153" height="55" width="50"/></a>
 <a href="https://www.hackerrank.com/@tomarm698" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@tomarm698" height="55" width="50" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/201b153/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/201b153/" height="55" width="50" /></a>
 <a href="https://www.hackerearth.com/@tomarm698" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@tomarm698" height="55" width="50"/></a>
+
 </p>
 <p align="center"> _______________________________________________________________________________________________________________________ </p>
 
 ## <img align="center" src="991ea426-62e2-4d81-a9fa-1e5d123dc0ad.gif" alt="Github-Stats" height="45" width="40" /> GitHub Achievements:
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=201b153&no-frame=true)](https://github.com/201b153/github-profile-trophy)
+
+<p align="center"> _______________________________________________________________________________________________________________________ </p>
+
+## 📊 **This week worked on**
+
+```text
+Go           11 hrs 32 mins  ███████████░░░░░░░░░░░░░░   43.72 %
+JavaScript   7 hrs 50 mins   ███████▒░░░░░░░░░░░░░░░░░   29.71 %
+Python       6 hrs 14 mins   ██████░░░░░░░░░░░░░░░░░░░   23.66 %
+JSON         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+CSS          15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+Markdown     5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+```
+
 <p align="center"> _______________________________________________________________________________________________________________________ </p>
 
 ## <img align="center" src="github-cat.gif" alt="Github-Stats" height="45" width="40" /> My Github Stats
+
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=201b153&layout=compact&theme=vision-friendly-dark" height="198" alt="201b153" /> &nbsp;&nbsp;
 ![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=201b153&show_icons=true&theme=dark) &nbsp;&nbsp;
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=201b153&theme=neon-dark)](https://git.io/streak-stats) &nbsp;
+
 <p align="center"> _______________________________________________________________________________________________________________________ </p>
 
 ## 🎧 Spotify Listening:
+
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1bu9rwn35f8z1tuehcub90pln&count=1)
+
 <p align="center"> _______________________________________________________________________________________________________________________ </p>
 
 ## 📫 Reach Out to me:
+
 ⦿ Connect to me at [LinkedIn](https://www.linkedin.com/in/mayank-tomar-726187205/) <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mayank-tomar-726187205/" height="15" width="18" /> <br>
 ⦿ Follow me on [Instagram](https://www.instagram.com/mstomar698) <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mstomar698" height="15" width="18" /> <br>
 ⦿ Follow me on [Twitter](https://twitter.com/tomarm698) <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mstomar698" height="15" width="18" /> <br>
@@ -100,7 +124,20 @@
 ⦿ Follow me on [Medium](https://medium.com/@tomarm698)<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tomarm698" height="15" width="18" /> <br>
 ⦿ Follow me on [DevTo](https://dev.to/201b153)<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/201b153" height="15" width="18" /> <br>
 ⦿ Mail me at [Email](mailto:tomarm698@gmail.com) 💌 <br>
+
+#### Like my work! Consider buying me a coffee
+
+<a href="https://www.buymeacoffee.com/201b153" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
 <p align="center"> _______________________________________________________________________________________________________________________ </p>
-<p align="center" > <img src="https://komarev.com/ghpvc/?username=201b153&label=Profile%20views&color=0e75b6&style=flat" height="55" width="120" alt="201b153" /> </p>
+
+<p align="" >
+
+[![wakatime](https://wakatime.com/badge/user/e027a351-bf5f-4bbf-92d6-1037bb62c845.svg)](https://wakatime.com/@e027a351-bf5f-4bbf-92d6-1037bb62c845)
+
+<img src="https://komarev.com/ghpvc/?username=201b153&label=Profile%20views&color=0e75b6&style=flat" height="55" width="120" alt="201b153" />
+
+</p>
+
 <p align="center"> _______________________________________________________________________________________________________________________ </p>
 <p align="center"> _______________________________________________________________________________________________________________________ </p>
