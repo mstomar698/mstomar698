@@ -119,9 +119,8 @@ Text         35 mins         ▓░░░░░░░░░░░░░░░░
 
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=201b153&layout=compact&theme=vision-friendly-dark" height="198" alt="201b153" /> &nbsp;&nbsp; -->
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=201b153&show_icons=true&theme=dark) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=201b153&theme=neon-dark)](https://git.io/streak-stats) &nbsp;
+![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=201b153&show_icons=true&theme=dark) <br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=201b153&theme=neon-dark)](https://git.io/streak-stats)
 
 <p align="center"> _______________________________________________________________________________________________________________________ </p>
 
