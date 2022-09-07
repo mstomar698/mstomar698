@@ -28,7 +28,7 @@
 
 - I love helping others and contribute to open-source projects.
 
-- I am currently freelancing in web-development field; You can check <a href="https://201b153.github.io/Mini-Portifolio">Portfolio</a>.
+- I am currently freelancing in web-development field; You can check my <a href="https://201b153.github.io/Mini-Portifolio">Portfolio</a>.
 
 - I like participating in hackathons and other social activities like webinars and meets.
 
