@@ -1,36 +1,46 @@
-<h1 align="center" font-size=40>Hello , I'm <strong>Mayank Singh Tomar</strong> <strong><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></strong></h1>
-<h2 align="center">I'm a<strong> MERN full stack Developer</strong>; who loves creating and learning new techs.</h2>
+<h1 align="center" font-size=72>Hello , I'm <strong>Mayank Singh Tomar</strong> <strong><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></strong></h1>
+<h2 align="center">I'm a <strong>full-stack Developer</strong>  & <strong>Web-app Penetration tester</strong> from <strong> India🕉️</strong> , who loves creating and learning new techs.</h2>
 
 <p align="center"> _______________________________________________________________________________________________________________________ </p>
 
-<img align="center" alt="Coding" width="auto" height="400" src="code.gif">
+<!-- <img align="center" alt="Coding" width="auto" height="400" src="code.gif">
+<p align="center">
+<img alt="GIF" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="350" height="240" />
+</p> -->
+<p align="center">
+<img alt="GIF" src="code.gif"  width="auto" height="400" />
+</p>
 
 <br>
 
-## 🤵‍♂️ About:
+## 🤵‍♂️ About
 
 <p align="left" font size="36">
-- 🌱 I’m currently working on <strong>Web-Development, Web-Security, Competitive-programming</strong>.
+- 🌱 I'm currently working on <strong>Web-Assembly using Rust; Image-Processing</strong>.
 
-- 💬 Ask me about **React, MERN, JavaScript, Kali**.
+- 💬 Ask me about **Web-Development, Web-Security, Competitive-programming**.
 
-- 🧑‍🎓 I'm currently a third year undergraduate persuing B-tech at Jaypee University of Engineering and Technology.
+- 🧑‍🎓 I'm a 3rd year undergraduate persuing B-tech at Jaypee University of Engineering and Technology.
 
-- I'm a MERN full stack developer and Penetration tester with both academic and self taught skills.
+- I'm a MERN full stack developer and web-app penetration tester with both academic and self taught skills.
 
-- Being enthusiastic about web development and cyber security with ethical hacking, I love to work in both the fields and explore new skills and technologies.
+- Being enthusiastic about web development and web-security, I love to work in both the fields and explore new skills and technologies.
 
-- I love to help others and contribute to open-source projects.
-- I am currently working as a freelancer and if You like, you can reach out to me if you have any work to do.
+- I love helping others and contribute to open-source projects.
 
-- I like to participate in hackathons and have already been on the college's SIH team.
+- I am currently freelancing in web-development field; You can check <a href="https://201b153.github.io/Mini-Portifolio">Portfolio</a>.
 
-- Drawing and content writing are my hobby and I like to write blogs when I am free.
+- I like participating in hackathons and other social activities like webinars and meets.
 
-- Find my resume at <a href="https://drive.google.com/file/d/19j6qI3jtfrb-4f3if4EhJRdVIYXaxMc1/view?usp=sharing" >RESUME</a>
+- Drawing and content writing are my hobbies and I blog writing is one of them.
+
+- Find my Blogs at [DevTo](https://dev.to/201b153)<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/201b153" height="15" width="18" />
+
+- Wanna know more about me?? See my <a href="https://drive.google.com/file/d/19j6qI3jtfrb-4f3if4EhJRdVIYXaxMc1/view?usp=sharing" >RESUME</a>.
+
 <p align="center"> _______________________________________________________________________________________________________________________ </p>
 
-## ⚡ Languages and Tools:
+## ⚡ Languages and Tools
 
 <p align="left">
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="55" width="50"/> </a>
@@ -72,7 +82,7 @@
 </p>
 <p align="center"> _______________________________________________________________________________________________________________________ </p>
 
-## 🌍 PlatForms On:
+## 🌍 PlatForms On
 
 <a href="https://www.codechef.com/users/https://www.codechef.com/users/mayank201b153" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/mayank201b153" height="55" width="50"/></a>
 <a href="https://www.hackerrank.com/@tomarm698" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@tomarm698" height="55" width="50" /></a>
@@ -82,13 +92,14 @@
 </p>
 <p align="center"> _______________________________________________________________________________________________________________________ </p>
 
-## <img align="center" src="991ea426-62e2-4d81-a9fa-1e5d123dc0ad.gif" alt="Github-Stats" height="45" width="40" /> GitHub Achievements:
+## <img align="center" src="991ea426-62e2-4d81-a9fa-1e5d123dc0ad.gif" alt="Github-Stats" height="45" width="40" /> GitHub Achievements
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=201b153&no-frame=true)](https://github.com/201b153/github-profile-trophy)
 
 <p align="center"> _______________________________________________________________________________________________________________________ </p>
 
 ## 📊 **This week I worked on**
+
 <!--START_SECTION:waka-->
 
 ```text
@@ -100,25 +111,27 @@ HTML         1 hr 13 mins    █▒░░░░░░░░░░░░░░░
 Text         35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
 ```
 
-<!--END_SECTION:waka-->     
+<!--END_SECTION:waka-->
 
 <p align="center"> _______________________________________________________________________________________________________________________ </p>
 
 ## <img align="center" src="github-cat.gif" alt="Github-Stats" height="45" width="40" /> My Github Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=201b153&layout=compact&theme=vision-friendly-dark" height="198" alt="201b153" /> &nbsp;&nbsp;
-![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=201b153&show_icons=true&theme=dark) &nbsp;&nbsp;
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=201b153&layout=compact&theme=vision-friendly-dark" height="198" alt="201b153" /> &nbsp;&nbsp; -->
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=201b153&show_icons=true&theme=dark) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=201b153&theme=neon-dark)](https://git.io/streak-stats) &nbsp;
 
 <p align="center"> _______________________________________________________________________________________________________________________ </p>
 
-## 🎧 Spotify Listening:
+## 🎧 Spotify Listening
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1bu9rwn35f8z1tuehcub90pln&count=1)
 
 <p align="center"> _______________________________________________________________________________________________________________________ </p>
 
-## 📫 Reach Out to me:
+## 📫 Reach Out to me
 
 ⦿ Connect to me at [LinkedIn](https://www.linkedin.com/in/mayank-tomar-726187205/) <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mayank-tomar-726187205/" height="15" width="18" /> <br>
 ⦿ Follow me on [Instagram](https://www.instagram.com/mstomar698) <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mstomar698" height="15" width="18" /> <br>
@@ -126,6 +139,7 @@ Text         35 mins         ▓░░░░░░░░░░░░░░░░
 ⦿ See my work at [Codepen](https://codepen.io/@201b153)<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@201b153" height="15" width="18" /> <br>
 ⦿ Follow me on [Medium](https://medium.com/@tomarm698)<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tomarm698" height="15" width="18" /> <br>
 ⦿ Follow me on [DevTo](https://dev.to/201b153)<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/201b153" height="15" width="18" /> <br>
+⦿ Join me at [Discord](https://discord.gg/2tbhSKxF)<img alt="Discord" align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" height="15" width="18" /><br>
 ⦿ Mail me at [Email](mailto:tomarm698@gmail.com) 💌 <br>
 
 #### Like my work! Consider buying me a coffee
