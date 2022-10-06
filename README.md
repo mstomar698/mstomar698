@@ -8,7 +8,8 @@
 <img alt="GIF" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="350" height="240" />
 </p> -->
 <p align="center">
-<img alt="GIF" src="code.gif"  width="auto" height="400" />
+<img alt="GIF" src="new-dev.gif"  width="auto" height="400" />
+<!-- <img alt="GIF" src="code.gif"  width="auto" height="400" /> -->
 </p>
 
 <br>
@@ -22,21 +23,19 @@
 
 - 🧑‍🎓 I'm a 3rd year undergraduate persuing B-tech at Jaypee University of Engineering and Technology.
 
-- I'm a MERN full stack developer and web-app penetration tester with both academic and self taught skills.
+- I'm a full-stack developer and web-app penetration tester with both academic and self taught skills.
 
 - Being enthusiastic about web development and web-security, I love to work in both the fields and explore new skills and technologies.
 
 - I love helping others and contribute to open-source projects.
 
-- I am currently freelancing in web-development field; You can check my <a href="https://201b153.github.io/Mini-Portifolio">Portfolio</a>.
+- I am currently woking as freelancer. You can find my **RESUME** [here](https://drive.google.com/file/d/1-m_2qDhNor54UMQNrDSdmtJG8aSGIr1b/view?usp=sharing).
 
 - I like participating in hackathons and other social activities like webinars and meets.
 
-- Drawing and content writing are my hobbies and I blog writing is one of them.
+- I write technical content on web you can check find my blogs at **[DevTo](https://dev.to/mstomar698)<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/mstomar698" height="15" width="18" />**
 
-- Find my Blogs at [DevTo](https://dev.to/201b153)<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/201b153" height="15" width="18" />
-
-- Wanna know more about me?? See my <a href="https://drive.google.com/file/d/19j6qI3jtfrb-4f3if4EhJRdVIYXaxMc1/view?usp=sharing" >RESUME</a>.
+- Wanna know more about me?? Have a look at my <a href="http://mstomar.me" >**Portfolio**</a>.
 
 <p align="center"> _______________________________________________________________________________________________________________________ </p>
 
@@ -84,9 +83,9 @@
 
 ## 🌍 PlatForms On
 
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/mayank201b153" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/mayank201b153" height="55" width="50"/></a>
-<a href="https://www.hackerrank.com/@tomarm698" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@tomarm698" height="55" width="50" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/201b153/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/201b153/" height="55" width="50" /></a>
+<a href="https://www.codechef.com/users/https://www.codechef.com/users/mayank201b153" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/mstomar698" height="55" width="50"/></a>
+<a href="https://www.hackerrank.com/tomarm698" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@tomarm698" height="55" width="50" /></a>
+<a href="https://leetcode.com/mstomar698/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/mstomar698/" height="55" width="50" /></a>
 <a href="https://www.hackerearth.com/@tomarm698" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@tomarm698" height="55" width="50"/></a>
 
 </p>
@@ -94,7 +93,7 @@
 
 ## <img align="center" src="991ea426-62e2-4d81-a9fa-1e5d123dc0ad.gif" alt="Github-Stats" height="45" width="40" /> GitHub Achievements
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=201b153&no-frame=true)](https://github.com/201b153/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mstomar698&no-frame=true)](https://github.com/mstomar698/github-profile-trophy)
 
 <p align="center"> _______________________________________________________________________________________________________________________ </p>
 
@@ -117,10 +116,10 @@ HTML         45 mins         █░░░░░░░░░░░░░░░░
 
 ## <img align="center" src="github-cat.gif" alt="Github-Stats" height="45" width="40" /> My Github Stats
 
-<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=201b153&layout=compact&theme=vision-friendly-dark" height="198" alt="201b153" /> &nbsp;&nbsp; -->
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mstomar698&layout=compact&theme=vision-friendly-dark" height="198" alt="mstomar698" /> &nbsp;&nbsp; -->
 
-![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=201b153&show_icons=true&theme=dark) <br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=201b153&theme=neon-dark)](https://git.io/streak-stats)
+![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=mstomar698&show_icons=true&theme=dark) <br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mstomar698&theme=neon-dark)](https://git.io/streak-stats)
 
 <p align="center"> _______________________________________________________________________________________________________________________ </p>
 
@@ -130,30 +129,29 @@ HTML         45 mins         █░░░░░░░░░░░░░░░░
 
 <p align="center"> _______________________________________________________________________________________________________________________ </p>
 
-## 📫 Reach Out to me
+## 📫 Reach out to me
 
 ⦿ Connect to me at [LinkedIn](https://www.linkedin.com/in/mayank-tomar-726187205/) <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mayank-tomar-726187205/" height="15" width="18" /> <br>
 ⦿ Follow me on [Instagram](https://www.instagram.com/mstomar698) <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mstomar698" height="15" width="18" /> <br>
 ⦿ Follow me on [Twitter](https://twitter.com/tomarm698) <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mstomar698" height="15" width="18" /> <br>
-⦿ See my work at [Codepen](https://codepen.io/@201b153)<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@201b153" height="15" width="18" /> <br>
+⦿ See my work at [Codepen](https://codepen.io/mstomar698)<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@mstomar698" height="15" width="18" /> <br>
 ⦿ Follow me on [Medium](https://medium.com/@tomarm698)<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tomarm698" height="15" width="18" /> <br>
-⦿ Follow me on [DevTo](https://dev.to/201b153)<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/201b153" height="15" width="18" /> <br>
-⦿ Join me at [Discord](https://discord.gg/2tbhSKxF)<img alt="Discord" align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" height="15" width="18" /><br>
+⦿ Follow me on [DevTo](https://dev.to/mstomar698)<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/mstomar698" height="15" width="18" /> <br>
+⦿ Join me at [Discord](https://discord.gg/zvYV8ketBm)<img alt="Discord" align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" height="15" width="18" /><br>
 ⦿ Mail me at [Email](mailto:tomarm698@gmail.com) 💌 <br>
 
 #### Like my work! Consider buying me a coffee
 
-<a href="https://www.buymeacoffee.com/201b153" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/mstomar698" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 <p align="center"> _______________________________________________________________________________________________________________________ </p>
 
-<p align="" >
 
+
+![](https://komarev.com/ghpvc/?username=mstomar698&color=green)
 [![wakatime](https://wakatime.com/badge/user/e027a351-bf5f-4bbf-92d6-1037bb62c845.svg)](https://wakatime.com/@e027a351-bf5f-4bbf-92d6-1037bb62c845)
 
-<img src="https://komarev.com/ghpvc/?username=201b153&label=Profile%20views&color=0e75b6&style=flat" height="55" width="120" alt="201b153" />
 
-</p>
+<hr />
+<hr />
 
-<p align="center"> _______________________________________________________________________________________________________________________ </p>
-<p align="center"> _______________________________________________________________________________________________________________________ </p>
