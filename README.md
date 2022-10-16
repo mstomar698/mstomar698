@@ -39,63 +39,75 @@
 
 <p align="center"> _______________________________________________________________________________________________________________________ </p>
 
-## ⚡ Languages and Tools
+## 💼 Tools & Skills
 
-<p align="left">
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="55" width="50"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" height="55" width="50"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="55" width="50"/> </a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="django.gif" alt="django" height="55" width="50"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="55" width="50"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="55" width="50"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="55" width="50"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="55" width="50"/> </a>
-<a href="https://www.vscode.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="VSCode" height="55" width="50"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="55" width="50"/> </a>
-<a href="https://www.Kali.org/" target="_blank" rel="noreferrer"> <img src="flat,750x,075,f-pad,750x1000,f8f8f8.u2.jpg" alt="linux" height="55" width="50"/> </a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" height="55" width="50"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" height="55" width="50"/> </a>
-<!-- ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) -->
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="55" width="50"/> </a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="55" width="50"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="55" width="50"/> </a>
-<a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" height="55" width="50"/> </a>
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" height="55" width="50"/> </a>
-<a href="https://realm.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" height="55" width="50"/> </a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" height="55" width="50"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" height="55" width="50"/> </a>
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" height="55" width="50"/> </a>
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" height="55" width="50"/> </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" height="55" width="50"/> </a>
-<a href="https://Threejs.com/" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/threejs/images/3453d6aa-b9c2-48b3-b2c1-97aa80b5525e.svg" alt="threejs" height="55" width="50"/> </a>
-<a href="https://D3.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/d3js/d3js-ar21.svg" alt="d3" height="55" width="50"/> </a>
-<a href="https://aws.amazon.com/console/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_awslambda/amazon_awslambda-icon.svg" alt="AWS" height="55" width="50"/> </a>
-<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" height="55" width="50"/> </a>
-<a href="https://heruko.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" height="55" width="50"/> </a>
-<a href="https://nextjs.com/" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/nextjs/images/60eff509-53dd-4280-92e7-7318fa02e934.svg" alt="nextjs" height="55" width="50"/> </a>
-<a href="https://typescript.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" height="55" width="50"/> </a>
-<a href="https://vue.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="Vue" height="55" width="50"/> </a>
-</p>
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=Go&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=Rust&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-WASM-informational?style=flat&logo=wasm&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Shell-informational?style=flat&logo=shell&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Next-informational?style=flat&logo=nextjs&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Gatsby-informational?style=flat&logo=gatsby&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=react&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
+<br><!-- <details> <summary>More Skills</summary> Add this to introducce dropdown -->
+
+![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/DB-SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/DB-Redis-informational?style=flat&logo=redis&logoColor=white&color=4AB197)
+<br>
+
+![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=react-bootstrap-CSS&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-Styled_Components-informational?style=flat&logo=styled-components&logoColor=white&color=4AB197)
+<br>
+
+![](https://img.shields.io/badge/Test-Jest-informational?style=flat&logo=jest&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Test-Cypress-informational?style=flat&logo=Cypress&logoColor=white&color=4AB197)
+<br>
+
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Linux-informational?style=flat&logo=linux&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-NGINX-informational?style=flat&logo=nginx&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Vercel-informational?style=flat&logo=vercel&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Actions-informational?style=flat&logo=github-actions&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-AdobeXD-informational?style=flat&logo=Adobe-XD&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-GitPod-informational?style=flat&logo=GitPod&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Bitbucket-informational?style=flat&logo=Bitbucket&logoColor=white&color=4AB197)
+<br>
+
 <p align="center"> _______________________________________________________________________________________________________________________ </p>
 
 ## 🌍 PlatForms On
 
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/mayank201b153" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/mstomar698" height="55" width="50"/></a>
-<a href="https://www.hackerrank.com/tomarm698" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@tomarm698" height="55" width="50" /></a>
-<a href="https://leetcode.com/mstomar698/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/mstomar698/" height="55" width="50" /></a>
-<a href="https://www.hackerearth.com/@tomarm698" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@tomarm698" height="55" width="50"/></a>
+![](https://img.shields.io/badge/PlatForms-CodeChef-informational?style=for-the-badge&logo=codechef&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/PlatForms-LeetCode-informational?style=for-the-badge&logo=leetcode&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/PlatForms-HackerRank-informational?style=for-the-badge&logo=hackerrank&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/PlatForms-HackerEarth-informational?style=for-the-badge&logo=hackerearth&logoColor=white&color=4AB197)
+<br>
 
 </p>
 <p align="center"> _______________________________________________________________________________________________________________________ </p>
 
-## <img align="center" src="991ea426-62e2-4d81-a9fa-1e5d123dc0ad.gif" alt="Github-Stats" height="45" width="40" /> GitHub Achievements
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mstomar698&no-frame=true)](https://github.com/mstomar698/github-profile-trophy)
-
-<p align="center"> _______________________________________________________________________________________________________________________ </p>
+![](https://komarev.com/ghpvc/?username=mstomar698&color=green)
+[![wakatime](https://wakatime.com/badge/user/e027a351-bf5f-4bbf-92d6-1037bb62c845.svg)](https://wakatime.com/@e027a351-bf5f-4bbf-92d6-1037bb62c845)
 
 ## 📊 **This week I worked on**
 
@@ -112,21 +124,39 @@ Bash         13 mins         ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-<p align="center"> _______________________________________________________________________________________________________________________ </p>
+**********************************************************\_\_\_********************************************************** </p>
 
 ## <img align="center" src="github-cat.gif" alt="Github-Stats" height="45" width="40" /> My Github Stats
 
-<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mstomar698&layout=compact&theme=vision-friendly-dark" height="198" alt="mstomar698" /> &nbsp;&nbsp; -->
+<div align="center">
+<!-- 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mstomar698&layout=compact&theme=vision-friendly-dark" height="198" alt="mstomar698" /> &nbsp;&nbsp; -->
 
-![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=mstomar698&show_icons=true&theme=dark) <br>
+![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=mstomar698&show_icons=true&theme=dark)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mstomar698&theme=neon-dark)](https://git.io/streak-stats)
+
+</div>
+
+<p align="center"> _______________________________________________________________________________________________________________________ </p>
+
+## <img align="center" src="991ea426-62e2-4d81-a9fa-1e5d123dc0ad.gif" alt="Github-Stats" height="45" width="40" /> GitHub Achievements
+
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=mstomar698&no-frame=true)](https://github.com/mstomar698/github-profile-trophy) -->
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mstomar698&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 <p align="center"> _______________________________________________________________________________________________________________________ </p>
 
 ## 🎧 Spotify Listening
 
+<div align="center">
+
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1bu9rwn35f8z1tuehcub90pln&count=1)
 
+</div>
 <p align="center"> _______________________________________________________________________________________________________________________ </p>
 
 ## 📫 Reach out to me
@@ -139,19 +169,17 @@ Bash         13 mins         ▒░░░░░░░░░░░░░░░░
 ⦿ Follow me on [DevTo](https://dev.to/mstomar698)<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/mstomar698" height="15" width="18" /> <br>
 ⦿ Join me at [Discord](https://discord.gg/zvYV8ketBm)<img alt="Discord" align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" height="15" width="18" /><br>
 ⦿ Mail me at [Email](mailto:tomarm698@gmail.com) 💌 <br>
+<!-- ⦿ Mail me at [![](https://img.shields.io/badge/Social-Gmail-informational?style=social&logo=gmail&logoColor=white&color=4AB197)](mailto:tomarm698@gmail.com) <br> -->
 
-#### Like my work! Consider buying me a coffee
+<div align="center">
 
 <a href="https://www.buymeacoffee.com/mstomar698" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
+#### Like my work! Consider buying me a coffee
+
+</div>
+
 <p align="center"> _______________________________________________________________________________________________________________________ </p>
 
-
-
-![](https://komarev.com/ghpvc/?username=mstomar698&color=green)
-[![wakatime](https://wakatime.com/badge/user/e027a351-bf5f-4bbf-92d6-1037bb62c845.svg)](https://wakatime.com/@e027a351-bf5f-4bbf-92d6-1037bb62c845)
-
-
 <hr />
 <hr />
-
