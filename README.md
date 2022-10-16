@@ -144,7 +144,7 @@ Bash         13 mins         ▒░░░░░░░░░░░░░░░░
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=mstomar698&no-frame=true)](https://github.com/mstomar698/github-profile-trophy) -->
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mstomar698&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mstomar698&row=2&column=3)](https://github.com/mstomar698/github-profile-trophy)
 
 </div>
 
