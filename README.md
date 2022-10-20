@@ -1,4 +1,4 @@
-<h1 align="center" font-size=72>Hello , I'm <strong>Mayank Singh Tomar</strong> <strong><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></strong></h1>
+ko<h1 align="center" font-size=72>Hello , I'm <strong>Mayank Singh Tomar</strong> <strong><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></strong></h1>
 <h2 align="center">I'm a <strong>full-stack Developer</strong>  & <strong>Web-app Penetration tester</strong> from <strong> India🕉️</strong> , who loves creating and learning new techs.</h2>
 
 <p align="center"> _______________________________________________________________________________________________________________________ </p>
@@ -179,7 +179,7 @@ Bash         13 mins         ▒░░░░░░░░░░░░░░░░
 
 </div>
 
-<p align="center"> _______________________________________________________________________________________________________________________ </p>
+<p align="center">_______________________________________________________________________________________________________________________ </p>
 
 <hr />
 <hr />
