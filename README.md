@@ -37,7 +37,7 @@ ko<h1 align="center" font-size=72>Hello , I'm <strong>Mayank Singh Tomar</strong
 
 - Wanna know more about me?? Have a look at my <a href="http://mstomar.me" >**Portfolio**</a>.
 
-<p align="center"> _______________________________________________________________________________________________________________________ </p>
+<p align="center">_______________________________________________________________________________________________________________________ </p>
 
 ## 💼 Tools & Skills
 
