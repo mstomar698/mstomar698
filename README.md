@@ -9,7 +9,7 @@ ko<h1 align="center" font-size=72>Hello , I'm <strong>Mayank Singh Tomar</strong
 </p> -->
 <p align="center">
 <img alt="GIF" src="new-dev.gif"  width="auto" height="400" />
-<!-- <img alt="GIF" src="code.gif"  width="auto" height="400" /> -->
+<!-- <img alt="GIF" src="code.gif"  width="auto" height="400" />  -->
 </p>
 
 <br>
