@@ -114,12 +114,12 @@ ko<h1 align="center" font-size=72>Hello , I'm <strong>Mayank Singh Tomar</strong
 <!--START_SECTION:waka-->
 
 ```text
-Go           12 hrs 31 mins  █████████████████▓░░░░░░░   70.57 %
-Markdown     1 hr 36 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.08 %
-JavaScript   1 hr 19 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 %
-HTML         1 hr 2 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
-YAML         36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
-Bash         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+JavaScript   14 hrs 41 mins  ███████████████▓░░░░░░░░░   62.82 %
+Go           3 hrs 4 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.16 %
+Markdown     2 hrs 41 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.51 %
+HTML         1 hr 13 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
+JSON         42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
+CSS          37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
 ```
 
 <!--END_SECTION:waka-->
