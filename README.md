@@ -33,7 +33,7 @@
 
 - Wanna know more about me?? Have a look at my <a href="http://mstomar.co" >**Portfolio**</a>.
 
-- I write technical content on the web you can check find my blogs at **[DevTo](https://dev.to/mstomar698)<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/mstomar698" height="15" width="18" />**
+- I write technical content on the web at **[DevTo](https://dev.to/mstomar698)<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/mstomar698" height="15" width="18" />**
 
 ## 💼 Tools & Skills
 
