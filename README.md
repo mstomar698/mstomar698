@@ -21,7 +21,7 @@
 
 - 🧑‍🎓I'm Mayank, a Computer Science Engineering graduate from Jaypee University, class of 2024.
 
-- You can find my **RESUME** [here](https://drive.google.com/file/d/1LlbgbbRewj9dBLwfEicblCw46jqaAeaF/view?usp=drive_link).
+- You can find my details in my [**RESUME**](https://drive.google.com/file/d/1LlbgbbRewj9dBLwfEicblCw46jqaAeaF/view?usp=drive_link).
 
 - I'm Mayank, a Computer Science Engineering graduate from Jaypee University, class of 2024.
 
