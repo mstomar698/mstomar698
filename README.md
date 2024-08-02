@@ -1,8 +1,6 @@
 <h1 align="center" font-size=72>Hello , I'm <strong>Mayank Singh Tomar</strong> <strong><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></strong></h1>
 <h2 align="center">I'm a <strong>full-stack developer</strong> from <strong> India🕉️</strong> , who loves exploring and researching.</h2>
 
-<p align="center">_______________________________________________________________________________________________________________________ </p>
-
 <!-- <img align="center" alt="Coding" width="auto" height="400" src="code.gif">
 <p align="center">
 <img alt="GIF" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="350" height="240" />
@@ -36,8 +34,6 @@
 - Wanna know more about me?? Have a look at my <a href="http://mstomar.co" >**Portfolio**</a>.
 
 - I write technical content on the web you can check find my blogs at **[DevTo](https://dev.to/mstomar698)<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/mstomar698" height="15" width="18" />**
-
-<p align="center">_______________________________________________________________________________________________________________________ </p>
 
 ## 💼 Tools & Skills
 
@@ -93,8 +89,6 @@
 ![](https://img.shields.io/badge/Tools-Bitbucket-informational?style=flat&logo=Bitbucket&logoColor=white&color=4AB197)
 <br>
 
-<p align="center"> _______________________________________________________________________________________________________________________ </p>
-
 ![](https://komarev.com/ghpvc/?username=mstomar698&color=green)
 [![wakatime](https://wakatime.com/badge/user/e027a351-bf5f-4bbf-92d6-1037bb62c845.svg)](https://wakatime.com/@e027a351-bf5f-4bbf-92d6-1037bb62c845)
 
@@ -125,8 +119,6 @@ Groovy                 1 hr 3 mins     █░░░░░░░░░░░░�
 
 </div>
 
-<p align="center"> _______________________________________________________________________________________________________________________ </p>
-
 ## <img align="center" src="991ea426-62e2-4d81-a9fa-1e5d123dc0ad.gif" alt="Github-Stats" height="45" width="40" /> GitHub Achievements
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=mstomar698&no-frame=true)](https://github.com/mstomar698/github-profile-trophy) -->
@@ -135,8 +127,6 @@ Groovy                 1 hr 3 mins     █░░░░░░░░░░░░�
 [![trophy](https://github-profile-trophy.vercel.app/?username=mstomar698&row=2&column=3)](https://github.com/mstomar698/github-profile-trophy)
 
 </div>
-
-<p align="center"> _______________________________________________________________________________________________________________________ </p>
 
 ## 📫 Reach out to me
 
@@ -156,8 +146,6 @@ Groovy                 1 hr 3 mins     █░░░░░░░░░░░░�
 #### Like my work! Consider buying me a coffee
 
 </div>
-
-<p align="center">_______________________________________________________________________________________________________________________ </p>
 
 <hr />
 <hr />
