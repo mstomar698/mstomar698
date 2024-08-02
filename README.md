@@ -27,9 +27,9 @@
 
 - I'm Mayank, a Computer Science Engineering graduate from Jaypee University, class of 2024.
 
-🔹 Full-stack developer with over a year of experience
-🔹 Proficient in frontend frameworks like ReactJs, NextJs, and HTML Templating
-🔹 Worked with server-side frameworks and languages like Django, Flask, NodeJs, Rust, JS, TS, and Go
+🔹 Full-stack developer with over a year of experience <br>
+🔹 Proficient in frontend frameworks like ReactJs, NextJs, and HTML Templating <br>
+🔹 Worked with server-side frameworks and languages like Django, Flask, NodeJs, Rust, JS, TS, and Go <br>
 
 - I'm passionate about innovation and eager to engage in hackathons, codathons, open-source projects, and new ideas.
 
