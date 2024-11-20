@@ -1,39 +1,32 @@
-<h1 align="center" font-size=72>Hello , I'm <strong>Mayank Singh Tomar</strong> <strong><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></strong></h1>
-<h2 align="center">I'm a <strong>full-stack developer</strong> from <strong> India🕉️</strong> , who loves exploring and researching.</h2>
+<h1 align="center" style="font-size: 72px;">
+  Hello,<br> I'm <strong>Mayank</strong> <br> a <strong>Full-Stack Developer</strong>
+</h1>
 
-<!-- <img align="center" alt="Coding" width="auto" height="400" src="code.gif">
 <p align="center">
-<img alt="GIF" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="350" height="240" />
-</p> -->
-<p align="center">
-<img alt="GIF" src="new-dev.gif"  width="auto" height="400" />
-<!-- <img alt="GIF" src="code.gif"  width="auto" height="400" />  -->
+  <img alt="Developer at work GIF" src="https://media1.tenor.com/m/UttC4AITYR4AAAAd/full-stack-developer.gif" width="auto" height="400" />
 </p>
 
-<br>
+---
 
-## 🤵‍♂️ About
+## 🤵‍♂️ About Me
 
-<p align="left" font size="36">
-- 🌱 I'm currently working on <strong>Eventgo to automate schedule and notes</strong>.
+- 🌱 I'm currently working on **Eventgo** to automate scheduling and note-taking in my spare time.
+- 💬 Ask me about **full-stack development** or **open-source projects**.
+- 🧑‍🎓 I'm Mayank, a Computer Science Engineering graduate from India.
 
-- 💬 Ask me about **full-stack development, open source projects**.
+### 🔹 My Expertise:
+- Full-stack development with **over a year of experience**.
+- Frontend frameworks: **React.js, Next.js, Astro**.
+- Backend technologies: **Django, Flask, Node.js, Rust, JavaScript, TypeScript, Go**.
+- Product builder: Created **web apps, desktop apps, and mobile apps**, all with active users. 😂
 
-- 🧑‍🎓I'm Mayank, a Computer Science Engineering graduate from Jaypee University, class of 2024.
+### 📝 Links:
+- 📜 Check out my [**RESUME**](https://drive.google.com/file/d/1LlbgbbRewj9dBLwfEicblCw46jqaAeaF/view?usp=drive_link).
+- 🌐 Visit my [**Portfolio**](https://www.mstomar.me).
 
-- You can find my details in my [**RESUME**](https://drive.google.com/file/d/1LlbgbbRewj9dBLwfEicblCw46jqaAeaF/view?usp=drive_link).
-
-- I'm Mayank, a Computer Science Engineering graduate from Jaypee University, class of 2024.
-
-🔹 Full-stack developer with over a year of experience <br>
-🔹 Proficient in frontend frameworks like ReactJs, NextJs, and HTML Templating <br>
-🔹 Worked with server-side frameworks and languages like Django, Flask, NodeJs, Rust, JS, TS, and Go <br>
-
-- I'm passionate about innovation and eager to engage in hackathons, codathons, open-source projects, and new ideas.
-
-- Wanna know more about me?? Have a look at my <a href="http://mstomar.co" >**Portfolio**</a>.
-
-- I write technical content on the web at **[Blogs](https://dev.to/mstomar698)**
+### 💡 Facts:
+- I'm passionate about **innovation** and love participating in **hackathons**, **codathons**, and contributing to **open-source projects**.
+- Always excited to brainstorm **new ideas** and collaborate!
 
 ## 💼 Tools & Skills
 
@@ -51,7 +44,6 @@
 ![](https://img.shields.io/badge/Code-Gatsby-informational?style=flat&logo=gatsby&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=react&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
 <be>
 
 ![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
@@ -89,8 +81,14 @@
 ![](https://img.shields.io/badge/Tools-Bitbucket-informational?style=flat&logo=Bitbucket&logoColor=white&color=4AB197)
 <br>
 
+<hr />
+
+<div align="center">
+  
 ![](https://komarev.com/ghpvc/?username=mstomar698&color=green)
 [![wakatime](https://wakatime.com/badge/user/e027a351-bf5f-4bbf-92d6-1037bb62c845.svg)](https://wakatime.com/@e027a351-bf5f-4bbf-92d6-1037bb62c845)
+
+</div>
 
 ## 📊 **This week I worked on**
 
@@ -106,13 +104,14 @@ TOML                   22 mins         ▓░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
+## 📊 **This Year has been hectic, I guess 🤠**
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mstomar698&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 </p>
 
 ## <img align="center" src="github-cat.gif" alt="Github-Stats" height="45" width="40" /> My Github Stats
 
 <div align="center">
-<!-- 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mstomar698&layout=compact&theme=vision-friendly-dark" height="198" alt="mstomar698" /> &nbsp;&nbsp; -->
 
 ![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=mstomar698&show_icons=true&theme=dark)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mstomar698&theme=neon-dark)](https://git.io/streak-stats)
@@ -121,7 +120,6 @@ TOML                   22 mins         ▓░░░░░░░░░░░░�
 
 ## <img align="center" src="991ea426-62e2-4d81-a9fa-1e5d123dc0ad.gif" alt="Github-Stats" height="45" width="40" /> GitHub Achievements
 
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=mstomar698&no-frame=true)](https://github.com/mstomar698/github-profile-trophy) -->
 <div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mstomar698&row=2&column=3)](https://github.com/mstomar698/github-profile-trophy)
@@ -130,14 +128,9 @@ TOML                   22 mins         ▓░░░░░░░░░░░░�
 
 ## 📫 Reach out to me
 
-⦿ Connect to me at [LinkedIn](https://www.linkedin.com/in/mayank-tomar-726187205/) <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mayank-tomar-726187205/" height="15" width="18" /> <br>
-⦿ Follow me on [Instagram](https://www.instagram.com/mstomar698) <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mstomar698" height="15" width="18" /> <br>
-⦿ Follow me on [Twitter](https://twitter.com/tomarm698) <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mstomar698" height="15" width="18" /> <br>
-⦿ See my work at [Codepen](https://codepen.io/mstomar698)<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@mstomar698" height="15" width="18" /> <br>
-⦿ Follow me on [Medium](https://medium.com/@tomarm698)<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tomarm698" height="15" width="18" /> <br>
-⦿ Follow me on [DevTo](https://dev.to/mstomar698)<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/mstomar698" height="15" width="18" /> <br>
-⦿ Mail me at [Email](mailto:tomarm698@gmail.com) 💌 <br>
-<!-- ⦿ Mail me at [![](https://img.shields.io/badge/Social-Gmail-informational?style=social&logo=gmail&logoColor=white&color=4AB197)](mailto:tomarm698@gmail.com) <br> -->
+⦿ Connect to me at [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mayank-tomar-726187205/" height="16" width="16" />](https://www.linkedin.com/in/mayank-tomar-726187205/) <br>
+⦿ Mail me at [<img align="center" src="https://cdn.pixabay.com/photo/2016/06/13/17/30/mail-1454731_1280.png" alt="mail" height="20" width="20" />](mailto:tomarm698@gmail.com) <br>
+⦿ Follow me on [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://github.com/mstomar698/" height="16" width="16" />](https://github.com/mstomar698) <br>
 
 <div align="center">
 
@@ -147,5 +140,8 @@ TOML                   22 mins         ▓░░░░░░░░░░░░�
 
 </div>
 
-<hr />
+<p align="center">
+  <strong>Let's connect and build something amazing together!</strong>
+</p>
+
 <hr />
