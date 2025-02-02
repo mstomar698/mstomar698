@@ -112,8 +112,9 @@ Rust         1 hr 4 mins     █▓░░░░░░░░░░░░░░░
 ## <img align="center" src="github-cat.gif" alt="Github-Stats" height="45" width="40" /> My Github Stats
 
 <div align="center">
-
+<!-- 
 ![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=mstomar698&show_icons=true&theme=dark)
+  -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mstomar698&theme=neon-dark)](https://git.io/streak-stats)
 
 </div>
