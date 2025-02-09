@@ -103,18 +103,19 @@ Other        1 hr 12 mins    █▒░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
+<!-- 
 ## 📊 **This Year has been hectic, I guess 🤠**
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mstomar698&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+  -->
 </p>
 
+<!-- 
 ## <img align="center" src="github-cat.gif" alt="Github-Stats" height="45" width="40" /> My Github Stats
 
 <div align="center">
-<!-- 
+
 ![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=mstomar698&show_icons=true&theme=dark)
-  -->
+
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mstomar698&theme=neon-dark)](https://git.io/streak-stats)
 
@@ -127,7 +128,8 @@ Other        1 hr 12 mins    █▒░░░░░░░░░░░░░░░
 [![trophy](https://github-profile-trophy.vercel.app/?username=mstomar698&row=2&column=3)](https://github.com/mstomar698/github-profile-trophy)
 
 </div>
-
+  -->
+  
 ## 📫 Reach out to me
 
 ⦿ Connect to me at [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mayank-tomar-726187205/" height="16" width="16" />](https://www.linkedin.com/in/mayank-tomar-726187205/) <br>
