@@ -15,10 +15,10 @@
 - 🧑‍🎓 I'm Mayank, a Computer Science Engineering graduate from India.
 
 ### 🔹 My Expertise:
-- Full-stack development with **over a year of experience**.
+- Full-stack development with **2 YOE**.
 - Frontend frameworks: **React.js, Next.js, Astro**.
 - Backend technologies: **Django, Flask, Node.js, Rust, JavaScript, TypeScript, Go**.
-- Product builder: Created **web apps, desktop apps, and mobile apps**, all with active users. 😂
+- Product builder: Created **web apps, desktop apps, and mobile apps**
 
 ### 📝 Links:
 - 📜 Check out my [**RESUME**](https://drive.google.com/file/d/1LlbgbbRewj9dBLwfEicblCw46jqaAeaF/view?usp=drive_link).
