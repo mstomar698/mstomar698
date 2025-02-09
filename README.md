@@ -83,13 +83,15 @@
 
 <hr />
 
+<!-- 
 <div align="center">
   
 ![](https://komarev.com/ghpvc/?username=mstomar698&color=green)
 [![wakatime](https://wakatime.com/badge/user/e027a351-bf5f-4bbf-92d6-1037bb62c845.svg)](https://wakatime.com/@e027a351-bf5f-4bbf-92d6-1037bb62c845)
 
 </div>
-
+-->
+  
 ## 📊 **This week I worked on**
 
 <!--START_SECTION:waka-->
