@@ -15,14 +15,13 @@
 - 🧑‍🎓 I'm Mayank, a Computer Science Engineering graduate from India.
 
 ### 🔹 My Expertise:
-- Full-stack development with **2 YOE**.
+- Full-stack development with **3 YOE**.
 - Frontend frameworks: **React.js, Next.js, Astro**.
 - Backend technologies: **Django, Flask, Node.js, Rust, JavaScript, TypeScript, Go**.
 - Product builder: Created **web apps, desktop apps, and mobile apps**
 
 ### 📝 Links:
-- 📜 Check out my [**RESUME**](https://drive.google.com/file/d/1LlbgbbRewj9dBLwfEicblCw46jqaAeaF/view?usp=drive_link).
-- 🌐 Visit my [**Portfolio**](https://www.mstomar.me).
+- 🌐 Visit my [**Portfolio**](https://www.mstomar.site).
 
 ### 💡 Facts:
 - I'm passionate about **innovation** and love participating in **hackathons**, **codathons**, and contributing to **open-source projects**.
@@ -134,8 +133,7 @@ Makefile     15 mins         ▓░░░░░░░░░░░░░░░░
   
 ## 📫 Reach out to me
 
-⦿ Connect to me at [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mayank-tomar-726187205/" height="16" width="16" />](https://www.linkedin.com/in/mayank-tomar-726187205/) <br>
-⦿ Mail me at [<img align="center" src="https://cdn.pixabay.com/photo/2016/06/13/17/30/mail-1454731_1280.png" alt="mail" height="20" width="20" />](mailto:tomarm698@gmail.com) <br>
+⦿ Mail me at [<img align="center" src="https://cdn.pixabay.com/photo/2016/06/13/17/30/mail-1454731_1280.png" alt="mail" height="20" width="20" />](mailto:mayank.s.tomar125@gmail.com) <br>
 ⦿ Follow me on [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://github.com/mstomar698/" height="16" width="16" />](https://github.com/mstomar698) <br>
 
 <div align="center">
