@@ -1,147 +1,66 @@
-<h1 align="center" style="font-size: 72px;">
-  Hello,<br> I'm <strong>Mayank</strong> <br> a <strong>Full-Stack Developer</strong>
-</h1>
+<h1 align="center">Hi, I'm Mayank 👋</h1>
 
-<p align="center">
-  <img alt="Developer at work GIF" src="https://media1.tenor.com/m/UttC4AITYR4AAAAd/full-stack-developer.gif" width="auto" height="400" />
-</p>
+<p align="center"><b>Full-stack &amp; AI Engineer</b> &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; Rust &nbsp;·&nbsp; Python</p>
 
 ---
 
-## 🤵‍♂️ About Me
+## About
 
-- 🌱 I'm currently working on **Eventgo** to automate scheduling and note-taking in my spare time.
-- 💬 Ask me about **full-stack development** or **open-source projects**.
-- 🧑‍🎓 I'm Mayank, a Computer Science Engineering graduate from India.
+- 🧠 I build **AI / LLM tooling and automation**, **Rust + WebAssembly**, and **full-stack** web apps.
+- 🌱 I build in the open — most of what I ship is **open source**: realtime apps, marketplaces, and a Rust/WASM image editor.
+- ⚙️ Comfortable across the stack — TypeScript/Node/Next on the web, Python (FastAPI/Django) and Rust on the backend, AWS in production.
+- 💬 Ask me about **LLM agents &amp; QA automation**, **Rust/WASM**, or shipping a product fast on a small team.
 
-### 🔹 My Expertise:
-- Full-stack development with **3 YOE**.
-- Frontend frameworks: **React.js, Next.js, Astro**.
-- Backend technologies: **Django, Flask, Node.js, Rust, JavaScript, TypeScript, Go**.
-- Product builder: Created **web apps, desktop apps, and mobile apps**
+## Selected open-source work
 
-### 📝 Links:
-- 🌐 Visit my [**Portfolio**](https://www.mstomar.site).
+| Project | What it is | Stack | |
+|---|---|---|---|
+| **ThreadSpace** | Realtime build-in-public social platform | Django · Next.js · Rust · WebSockets | [live ↗](https://threadspace.duckdns.org) |
+| **ShopWhirl** | Multi-seller marketplace for rare &amp; collectible books | React · Node · Express · MongoDB | [live ↗](https://shopwhirl.duckdns.org) |
+| **Pictoral** | In-browser image editor at near-native speed via WebAssembly | Rust · wasm-pack · React | |
+| **Jijivisha** | Offline-first senior-health companion app | Flutter · Dart · SQLite | |
+| **EventGo** | AI event-planning workspace with LLM-assisted itineraries | Next.js · Gemini · MongoDB | |
 
-### 💡 Facts:
-- I'm passionate about **innovation** and love participating in **hackathons**, **codathons**, and contributing to **open-source projects**.
-- Always excited to brainstorm **new ideas** and collaborate!
+## Tech
 
-## 💼 Tools & Skills
+**Languages**
+![TypeScript](https://img.shields.io/badge/-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=4AB197)
+![JavaScript](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=4AB197)
+![Rust](https://img.shields.io/badge/-Rust-informational?style=flat&logo=rust&logoColor=white&color=4AB197)
+![Python](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white&color=4AB197)
+![Go](https://img.shields.io/badge/-Go-informational?style=flat&logo=go&logoColor=white&color=4AB197)
 
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=Go&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=Rust&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-WASM-informational?style=flat&logo=wasm&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Shell-informational?style=flat&logo=shell&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Next-informational?style=flat&logo=nextjs&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Gatsby-informational?style=flat&logo=gatsby&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=react&logoColor=white&color=4AB197)
-<be>
+**AI &amp; Automation**
+![LLM tooling](https://img.shields.io/badge/-LLM_tooling-informational?style=flat&logo=openai&logoColor=white&color=8A63D2)
+![Claude](https://img.shields.io/badge/-Claude-informational?style=flat&logo=anthropic&logoColor=white&color=8A63D2)
+![Gemini](https://img.shields.io/badge/-Gemini-informational?style=flat&logo=googlegemini&logoColor=white&color=8A63D2)
+![Playwright](https://img.shields.io/badge/-QA_automation-informational?style=flat&logo=playwright&logoColor=white&color=8A63D2)
 
-![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/DB-SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/DB-Redis-informational?style=flat&logo=redis&logoColor=white&color=4AB197)
-<br>
+**Frontend**
+![React](https://img.shields.io/badge/-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
+![Next.js](https://img.shields.io/badge/-Next.js-informational?style=flat&logo=nextdotjs&logoColor=white&color=4AB197)
+![Tailwind](https://img.shields.io/badge/-Tailwind-informational?style=flat&logo=tailwindcss&logoColor=white&color=4AB197)
+![Flutter](https://img.shields.io/badge/-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=4AB197)
+![Svelte](https://img.shields.io/badge/-Svelte-informational?style=flat&logo=svelte&logoColor=white&color=4AB197)
+![WASM](https://img.shields.io/badge/-WebAssembly-informational?style=flat&logo=webassembly&logoColor=white&color=4AB197)
 
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=react-bootstrap-CSS&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Styled_Components-informational?style=flat&logo=styled-components&logoColor=white&color=4AB197)
-<br>
+**Backend &amp; Data**
+![Node.js](https://img.shields.io/badge/-Node.js-informational?style=flat&logo=nodedotjs&logoColor=white&color=4AB197)
+![FastAPI](https://img.shields.io/badge/-FastAPI-informational?style=flat&logo=fastapi&logoColor=white&color=4AB197)
+![Django](https://img.shields.io/badge/-Django-informational?style=flat&logo=django&logoColor=white&color=4AB197)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=4AB197)
+![MongoDB](https://img.shields.io/badge/-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=4AB197)
+![Redis](https://img.shields.io/badge/-Redis-informational?style=flat&logo=redis&logoColor=white&color=4AB197)
 
-![](https://img.shields.io/badge/Test-Jest-informational?style=flat&logo=jest&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Test-Cypress-informational?style=flat&logo=Cypress&logoColor=white&color=4AB197)
-<br>
+**Cloud &amp; DevOps**
+![AWS](https://img.shields.io/badge/-AWS-informational?style=flat&logo=amazonwebservices&logoColor=white&color=4AB197)
+![Docker](https://img.shields.io/badge/-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-informational?style=flat&logo=githubactions&logoColor=white&color=4AB197)
+![Linux](https://img.shields.io/badge/-Linux-informational?style=flat&logo=linux&logoColor=white&color=4AB197)
 
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Linux-informational?style=flat&logo=linux&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-NGINX-informational?style=flat&logo=nginx&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Vercel-informational?style=flat&logo=vercel&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Actions-informational?style=flat&logo=github-actions&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-AdobeXD-informational?style=flat&logo=Adobe-XD&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-GitPod-informational?style=flat&logo=GitPod&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Bitbucket-informational?style=flat&logo=Bitbucket&logoColor=white&color=4AB197)
-<br>
+## GitHub
 
-<hr />
-
-<!-- 
-<div align="center">
-  
-![](https://komarev.com/ghpvc/?username=mstomar698&color=green)
-[![wakatime](https://wakatime.com/badge/user/e027a351-bf5f-4bbf-92d6-1037bb62c845.svg)](https://wakatime.com/@e027a351-bf5f-4bbf-92d6-1037bb62c845)
-
-</div>
--->
-<!--  
-## 📊 **This week I worked on**
--->
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-<!-- 
-## 📊 **This Year has been hectic, I guess 🤠**
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mstomar698&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  -->
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mstomar698&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mstomar698&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
-
-<!-- 
-## <img align="center" src="github-cat.gif" alt="Github-Stats" height="45" width="40" /> My Github Stats
-
-<div align="center">
-
-![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=mstomar698&show_icons=true&theme=dark)
-
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mstomar698&theme=neon-dark)](https://git.io/streak-stats)
-
-</div>
-
-## <img align="center" src="991ea426-62e2-4d81-a9fa-1e5d123dc0ad.gif" alt="Github-Stats" height="45" width="40" /> GitHub Achievements
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mstomar698&row=2&column=3)](https://github.com/mstomar698/github-profile-trophy)
-
-</div>
-  -->
-  
-## 📫 Reach out to me
-
-⦿ Mail me at [<img align="center" src="https://cdn.pixabay.com/photo/2016/06/13/17/30/mail-1454731_1280.png" alt="mail" height="20" width="20" />](mailto:mayank.s.tomar125@gmail.com) <br>
-⦿ Follow me on [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://github.com/mstomar698/" height="16" width="16" />](https://github.com/mstomar698) <br>
-
-<div align="center">
-
-<a href="https://www.buymeacoffee.com/mstomar698" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-#### Like my work! Consider buying me a coffee
-
-</div>
-
-<p align="center">
-  <strong>Let's connect and build something amazing together!</strong>
-</p>
-
-<hr />
