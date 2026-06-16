@@ -17,50 +17,42 @@
 |---|---|---|---|
 | **ThreadSpace** | Realtime build-in-public social platform | Django · Next.js · Rust · WebSockets | [live ↗](https://threadspace.duckdns.org) |
 | **ShopWhirl** | Multi-seller marketplace for rare &amp; collectible books | React · Node · Express · MongoDB | [live ↗](https://shopwhirl.duckdns.org) |
-| **Pictoral** | In-browser image editor at near-native speed via WebAssembly | Rust · wasm-pack · React | |
+| **Pictoral** | In-browser image editor at near-native speed via WebAssembly | Rust · wasm-pack · React | [live ↗](https://pictoral.vercel.app) |
+| **EventGo** | AI event-planning workspace with LLM-assisted itineraries | Next.js · Gemini · MongoDB | [live ↗](https://eventgo.vercel.app) |
 | **Jijivisha** | Offline-first senior-health companion app | Flutter · Dart · SQLite | |
-| **EventGo** | AI event-planning workspace with LLM-assisted itineraries | Next.js · Gemini · MongoDB | |
 
 ## Tech
 
 **Languages**
-![TypeScript](https://img.shields.io/badge/-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=4AB197)
-![JavaScript](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=4AB197)
-![Rust](https://img.shields.io/badge/-Rust-informational?style=flat&logo=rust&logoColor=white&color=4AB197)
-![Python](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white&color=4AB197)
-![Go](https://img.shields.io/badge/-Go-informational?style=flat&logo=go&logoColor=white&color=4AB197)
+![TypeScript](https://img.shields.io/badge/-TypeScript-4AB197?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-4AB197?style=flat&logo=javascript&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-4AB197?style=flat&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-4AB197?style=flat&logo=python&logoColor=white)
 
 **AI &amp; Automation**
-![LLM tooling](https://img.shields.io/badge/-LLM_tooling-informational?style=flat&logo=openai&logoColor=white&color=8A63D2)
-![Claude](https://img.shields.io/badge/-Claude-informational?style=flat&logo=anthropic&logoColor=white&color=8A63D2)
-![Gemini](https://img.shields.io/badge/-Gemini-informational?style=flat&logo=googlegemini&logoColor=white&color=8A63D2)
-![Playwright](https://img.shields.io/badge/-QA_automation-informational?style=flat&logo=playwright&logoColor=white&color=8A63D2)
+![LLM &amp; Agents](https://img.shields.io/badge/-LLM%20%26%20Agents-8A63D2?style=flat)
+![Claude](https://img.shields.io/badge/-Claude-8A63D2?style=flat&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/-Gemini-8A63D2?style=flat&logo=googlegemini&logoColor=white)
+![QA Automation](https://img.shields.io/badge/-QA%20Automation-8A63D2?style=flat)
 
 **Frontend**
-![React](https://img.shields.io/badge/-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
-![Next.js](https://img.shields.io/badge/-Next.js-informational?style=flat&logo=nextdotjs&logoColor=white&color=4AB197)
-![Tailwind](https://img.shields.io/badge/-Tailwind-informational?style=flat&logo=tailwindcss&logoColor=white&color=4AB197)
-![Flutter](https://img.shields.io/badge/-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=4AB197)
-![Svelte](https://img.shields.io/badge/-Svelte-informational?style=flat&logo=svelte&logoColor=white&color=4AB197)
-![WASM](https://img.shields.io/badge/-WebAssembly-informational?style=flat&logo=webassembly&logoColor=white&color=4AB197)
+![React](https://img.shields.io/badge/-React-4AB197?style=flat&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-4AB197?style=flat&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind-4AB197?style=flat&logo=tailwindcss&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-4AB197?style=flat&logo=flutter&logoColor=white)
+![Svelte](https://img.shields.io/badge/-Svelte-4AB197?style=flat&logo=svelte&logoColor=white)
+![WebAssembly](https://img.shields.io/badge/-WebAssembly-4AB197?style=flat&logo=webassembly&logoColor=white)
 
 **Backend &amp; Data**
-![Node.js](https://img.shields.io/badge/-Node.js-informational?style=flat&logo=nodedotjs&logoColor=white&color=4AB197)
-![FastAPI](https://img.shields.io/badge/-FastAPI-informational?style=flat&logo=fastapi&logoColor=white&color=4AB197)
-![Django](https://img.shields.io/badge/-Django-informational?style=flat&logo=django&logoColor=white&color=4AB197)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=4AB197)
-![MongoDB](https://img.shields.io/badge/-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=4AB197)
-![Redis](https://img.shields.io/badge/-Redis-informational?style=flat&logo=redis&logoColor=white&color=4AB197)
+![Node.js](https://img.shields.io/badge/-Node.js-4AB197?style=flat&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-4AB197?style=flat&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-4AB197?style=flat&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4AB197?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4AB197?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-4AB197?style=flat&logo=redis&logoColor=white)
 
 **Cloud &amp; DevOps**
-![AWS](https://img.shields.io/badge/-AWS-informational?style=flat&logo=amazonwebservices&logoColor=white&color=4AB197)
-![Docker](https://img.shields.io/badge/-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-informational?style=flat&logo=githubactions&logoColor=white&color=4AB197)
-![Linux](https://img.shields.io/badge/-Linux-informational?style=flat&logo=linux&logoColor=white&color=4AB197)
-
-## GitHub
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mstomar698&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mstomar698&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
-</p>
+![AWS](https://img.shields.io/badge/-AWS-4AB197?style=flat)
+![Docker](https://img.shields.io/badge/-Docker-4AB197?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-4AB197?style=flat&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-4AB197?style=flat&logo=linux&logoColor=white)
